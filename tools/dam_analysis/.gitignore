@@ -1,0 +1,14 @@
+# DAM Analysis Outputs
+outputs/
+*.json
+*_plots/
+*.png
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Temporary files
+*.tmp
+*.log
